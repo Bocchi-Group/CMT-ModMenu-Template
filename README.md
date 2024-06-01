@@ -1,5 +1,5 @@
 # Android Mod Menu with color animation
-I did this for fun since RAUNAK MODS begged me to make it, but he is nice now and helped me out with LinearLayout animation, and I got the idea to do rainbow animation by myself.
+Reviving CMT
 
 Animation will not be added to the main project, and this will not be maintained much. But feel free to go through the code and copy that into your project
 
